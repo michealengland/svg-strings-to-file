@@ -1,6 +1,6 @@
 ## About
 
-I created this quick script to quickly convert a large number of inlined SVGs on a project I was working on. At the time, I encountered around 90+ inlined SVGs.
+I created this quick script to quickly convert a large number of inlined SVGs on a project I was working on. At the time, I encountered around 90+ inlined SVGs and it was very time consuming to manually convert these into files.
 
 ## Example Data
 
